@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bike Sharing Demand"
 excerpt: "[kaggel] Bike Sharing Demand 분석"
 
