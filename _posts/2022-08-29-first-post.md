@@ -22,7 +22,7 @@ last_modified_at:
   - 시각화: matplotlib, Seaborn
   - 머신러닝: scikit-learn
   
-  3. 데이터 개요
+  3. 데이터 개요  
   데이터는 하기 경로에서 다운로드 가능합니다.  
   [Kaggle Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand)  
   **datetime** - 시간. 연-월-일 시:분:초 로 표현  
