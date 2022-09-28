@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "[kaggel] Bike Sharing Demand 분석"
 categories: EDA
 tag:[python, EDA]
