@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Bike Sharing Demand"
+title: "[kaggel] Bike Sharing Demand 분석"
 excerpt: "[kaggel] Bike Sharing Demand 분석"
-
-categories:
-	- EDA
-tags:
-	- EDA
-last_modified_at:
+categories: EDA
+tags:[python, EDA]
+toc: true
+author_profile: false
 ---
 # [Bike Sharing Demand]  
 ## 목적 : 데이터분석과 시각화, 머신러닝 알고리즘으로 시간당 자전거 대여량을 예측  
