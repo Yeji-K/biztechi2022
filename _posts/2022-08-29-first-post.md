@@ -3,7 +3,7 @@ layout: post
 title: "[kaggel] Bike Sharing Demand 분석"
 excerpt: "[kaggel] Bike Sharing Demand 분석"
 categories: EDA
-tags:[python, EDA]
+tag:[python, EDA]
 toc: true
 author_profile: false
 ---
